@@ -1,4 +1,4 @@
-# Art-Gallery-Website
+#Draw Me Art-Gallery-Website
 Open source website for viewing arts and paintings. This website is being built as our DBMS project in fifth semester, Computer Engineering, Jamia Millia Islamia.
 
 
